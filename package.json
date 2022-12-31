@@ -1,11 +1,10 @@
 {
-  "name": "chatgpt",
+  "name": "chatgpt-starter-kit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
-    "server": "nodemon index"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
